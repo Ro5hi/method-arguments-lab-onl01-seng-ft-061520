@@ -12,5 +12,3 @@ end
 introduction("Josh")
 # > Hi, my name is Josh.
 
-introduction_with_language("Dan", "Ember.js")
-# > Hi, my name is Dan and I am learning to program in Ember.js.
